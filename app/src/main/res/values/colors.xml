@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorAccent">@color/colorTextBlack</color>
+    <color name="colorPrimary">@color/colorTextBlack</color>
+    <color name="colorPrimaryDark">@color/statusBarColor</color>
+    <color name="statusBarColor">#0e0e0e</color>
+
+    <color name="colorBlue">#344eee</color>
+    <color name="colorBackground">#ffffff</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorLightGreen">#a2ed3b</color>
+    <color name="colorTextBlack">#0e0e0e</color>
+    <color name="colorGrey">#808080</color>
+    <color name="start_color">#a6d4dc</color>
+    <color name="pp_color">#1a1d26</color>
+    <color name="statusBarColorMain">#323232</color>
+    <color name="highlight">#9bb5ed</color>
+    <color name="ordinaryday">#ffffff</color>
+    <color name="moonColor">#dddddd</color>
+    <color name="frameColor">#344eee</color>
+</resources>

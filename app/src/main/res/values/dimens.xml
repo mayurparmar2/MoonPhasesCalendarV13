@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="date_label_textsize">12sp</dimen>
+    <dimen name="scroll_thresh">32dp</dimen>
+</resources>

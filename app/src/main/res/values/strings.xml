@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Phases Of The Moon - Calendarn &amp; Wallpaper</string>
+    <string name="exit_yes">Yes, Exit now </string>
+    <string name="month_year_skelton">yyyyMMMM</string>
+    <string name="month_year_format">MMMM yyyy</string>
+    <string name="before_2001">Cannot show you calendars before 1923</string>
+    <string name="new_moon">New moon</string>
+    <string name="first_quarter">First quarter</string>
+    <string name="full_moon">Full moon</string>
+    <string name="third_quarter">Third quarter</string>
+    <string name="waning_crescent">Waning crescent</string>
+    <string name="waning_gibbous">Waning gibbous</string>
+    <string name="waxing_gibbous">Waxing gibbous</string>
+    <string name="waxing_crescent">Waxing crescent</string>
+</resources>
